@@ -33,7 +33,7 @@ int numberC = int.Parse(Console.ReadLine());
  */
 
  /*Напишите программу, которая на вход принимает число и выдаёт является ли число четным
-  (делится ли оно на два без остатка)*/
+  (делится ли оно на два без остатка)
   Console.Write("введите число : ");
   int numberF = int.Parse(Console.ReadLine());
   double rem = numberF % 2;
@@ -45,4 +45,32 @@ int numberC = int.Parse(Console.ReadLine());
   {
      Console.WriteLine("Ваше число нечётное"); 
   }
-  
+  */
+
+  /* Напишите программу, которая на вход принимает число (N), 
+  а на выходе показывает все четные числа от 1 до (N)*/
+  Console.Write("Введите число : ");
+  int num = int.Parse(Console.ReadLine());
+  double current;
+  if(num >= 1)
+  {
+    current = 1;
+    while(current <= num)
+    {
+        double rem = current % 2;
+        if(rem == 0) Console.Write(current + " ");
+        current ++;
+    }
+  }
+  if(num <= 1)
+  {
+    current = -1;
+    while(current >= num)
+  {
+    double rem = current % 2;
+    if(rem == 0) Console.Write(current + " ");
+        current ++;
+        current --;
+  }
+  }
+
