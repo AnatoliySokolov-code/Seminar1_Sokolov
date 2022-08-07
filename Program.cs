@@ -12,7 +12,7 @@ if (number1 < number2)
 Console.WriteLine($"{number2} - большее число, {number1} - меньшее число");
 }
 */
-// Напишите программу, которая принимает на вход три числа и выдает максимальное из этих чисел
+/*// Напишите программу, которая принимает на вход три числа и выдает максимальное из этих чисел
 Console.Write("Введите число 1: ");
 int numberA = int.Parse(Console.ReadLine());
 Console.Write("Введите число 2: ");
@@ -30,3 +30,19 @@ int numberC = int.Parse(Console.ReadLine());
     if(max < numberC) max = numberC;
     Console.WriteLine("Максимальное число из этих чисел:" +max);
  }
+ */
+
+ /*Напишите программу, которая на вход принимает число и выдаёт является ли число четным
+  (делится ли оно на два без остатка)*/
+  Console.Write("введите число : ");
+  int numberF = int.Parse(Console.ReadLine());
+  double rem = numberF % 2;
+  if (rem == 0)
+  {
+   Console.WriteLine("Ваше число чётное"); 
+  }
+  else
+  {
+     Console.WriteLine("Ваше число нечётное"); 
+  }
+  
