@@ -1,0 +1,15 @@
+D:\Seminar1_Sokolov\bin\Debug\net6.0\Seminar1_Sokolov.exe
+D:\Seminar1_Sokolov\bin\Debug\net6.0\Seminar1_Sokolov.deps.json
+D:\Seminar1_Sokolov\bin\Debug\net6.0\Seminar1_Sokolov.runtimeconfig.json
+D:\Seminar1_Sokolov\bin\Debug\net6.0\Seminar1_Sokolov.dll
+D:\Seminar1_Sokolov\bin\Debug\net6.0\Seminar1_Sokolov.pdb
+D:\Seminar1_Sokolov\obj\Debug\net6.0\Seminar1_Sokolov.csproj.AssemblyReference.cache
+D:\Seminar1_Sokolov\obj\Debug\net6.0\Seminar1_Sokolov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar1_Sokolov\obj\Debug\net6.0\Seminar1_Sokolov.AssemblyInfoInputs.cache
+D:\Seminar1_Sokolov\obj\Debug\net6.0\Seminar1_Sokolov.AssemblyInfo.cs
+D:\Seminar1_Sokolov\obj\Debug\net6.0\Seminar1_Sokolov.csproj.CoreCompileInputs.cache
+D:\Seminar1_Sokolov\obj\Debug\net6.0\Seminar1_Sokolov.dll
+D:\Seminar1_Sokolov\obj\Debug\net6.0\refint\Seminar1_Sokolov.dll
+D:\Seminar1_Sokolov\obj\Debug\net6.0\Seminar1_Sokolov.pdb
+D:\Seminar1_Sokolov\obj\Debug\net6.0\Seminar1_Sokolov.genruntimeconfig.cache
+D:\Seminar1_Sokolov\obj\Debug\net6.0\ref\Seminar1_Sokolov.dll
